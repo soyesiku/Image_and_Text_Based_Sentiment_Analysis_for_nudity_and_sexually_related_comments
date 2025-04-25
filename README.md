@@ -1,1 +1,1 @@
-# Image_and_Text_Based_Sentiment_Analysis_for_nudity_and_sexually_related_comments
+# Sentiment_Analysis_for_nudity_and_sexually_related_comments
